@@ -1,0 +1,304 @@
+@font-face {
+    font-family: ds-digital;
+    src: url("fonts/DS-DIGIT.TTF");
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: block;
+    max-width: 1200px;
+    background: url(../img/background/background_9.jpg) no-repeat;
+    background-size: cover;
+    font-family: sans-serif;
+    color: #ccc;
+    margin: 0 auto;
+}
+
+h1 {
+    font-family: ds-digital;
+}
+
+a {
+    display: inline;
+    text-decoration: none;
+    color: #fff;
+}
+
+button {
+    padding: 5px 20px;
+    background: #7fefef;
+    border: 1px solid #eee;
+    border-radius: 13px;
+}
+
+
+/* Utility */
+
+.container {
+    max-width: 1200px;
+    align-items: center;
+    justify-content: center;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.overlay {
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.4);
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+
+/* Header CSS */
+
+.header {
+    width: 100%;
+    display: block;
+    background: url(../img/logo/image_6.jpg);
+    background-size: cover;
+    background-position: center;
+    color: #5aa5c7;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 2em;
+}
+
+.header #logo {
+    width: 150px;
+    height: 150px;
+    margin: 30px auto;
+    align-self: center;
+}
+
+.header h1 {
+    font-family: ds-digital;
+}
+
+.navbar {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.navbar ul {
+    display: flex;
+    width: 80%;
+    justify-content: space-between;
+    font-size: .5em;
+}
+
+.nav li {
+    list-style: none;
+    padding: 10px 30px;
+}
+
+
+/* Main Content CSS */
+
+.content {
+    margin-top: 20px;
+    width: 100%;
+}
+
+.card {
+    width: 100%;
+    height: 340px;
+    background: url(../img/logo/image_16.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.card .cGrid {
+    height: 150px;
+}
+
+.card button {
+    margin: 15px;
+    background: #5aa5c7;
+}
+
+.card2 {
+    display: flex;
+    height: 120px;
+    border: 1px solid #ccc;
+    background: url(../img/logo/image_16.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.card2 .left {
+    display: flex;
+    width: 20%;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.card2 .right {
+    width: 80%;
+}
+
+.card2 i {
+    font-size: 3em;
+    color: #5aa5c7;
+    padding: 10px;
+}
+
+.card2 h1 {
+    display: block;
+    width: 100%;
+    padding: 10px 0;
+}
+
+.card2 span {
+    padding-right: 10px;
+}
+
+.card2 button {
+    background: transparent;
+    color: #ccc;
+    font-family: sans-serif;
+    font-size: 1em;
+    padding: 5px 20px;
+    margin: 0 10px;
+    border: 1px solid #fff;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+#all-course .card {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+#all-course .card .grid3 {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+#all-course .card>*:nth-child(1) {
+    grid-column: 1 / span 3;
+}
+
+#all-course .card h1 {
+    background: rgba(51, 51, 51, 0.5);
+    padding: 20px;
+    font-family: ds-digital;
+    font-size: 3em;
+    color: #5aa5c7;
+    text-shadow: 3px 3px #000;
+}
+
+#all-course .card span {
+    padding: 10px;
+    text-align: center;
+    text-shadow: 1px 1px #333;
+}
+
+
+/* Footer CSS */
+
+.footer {
+    width: 100%;
+    height: 300px;
+    background: url(../img/logo/image_18.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.footer .overlay {
+    padding: 20px;
+}
+
+.footer img {
+    width: 80px;
+    height: 80px;
+    margin: 0 auto;
+    margin-top: 10px;
+    border-radius: 50%;
+}
+
+.footer p {
+    font-size: 1.3em;
+}
+
+.footer p:nth-child(3) {
+    margin-top: 20px;
+    font-family: ds-digital;
+    font-size: 2.5em;
+    color: #5aa5c7;
+}
+
+.footer p:nth-child(4) {
+    font-size: 1.8em;
+    font-family: ds-digital;
+    color: #5aa5c7;
+}
+
+.footer .contact {
+    margin-top: 20px;
+    font-size: 16px;
+}
+
+
+/* Colors */
+
+color {
+    color: #110e1a;
+    color: #281c43;
+    color: #511b64;
+    color: #8f2782;
+    color: #cc5196;
+    color: #ff9aad;
+    color: #ffddb2;
+    color: #eb8357;
+    color: #b0302c;
+    color: #6e233b;
+    color: #3b1f2b;
+    color: #612f38;
+    color: #a1483b;
+    color: #cf8557;
+    color: #f5d745;
+    color: #b5f150;
+    color: #54c22d;
+    color: #2c8553;
+    color: #1f5559;
+    color: #1b2842;
+    color: #4c536e;
+    color: #8192a1;
+    color: #b6ccd1;
+    color: #f9fee7;
+    color: #ffadf5;
+    color: #9f5bbe;
+    color: #483289;
+    color: #20204f;
+    color: #283775;
+    color: #33619e;
+    color: #5aa5c7;
+    color: #7fefef;
+}

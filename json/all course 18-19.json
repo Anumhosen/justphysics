@@ -1,0 +1,394 @@
+{
+    "all_course": [{
+            "course_code": "PHY 1101",
+            "course_title": "Introduction to Mechanics",
+            "credit": 3.00
+        },
+        {
+            "course_code": "PHY 1102",
+            "course_title": "Introduction to Mechanics Practical",
+            "credit": 2.00
+
+        },
+        {
+            "course_code": "PHY 1103",
+            "course_title": "Properties of Matter",
+            "credit": 3.00
+
+        },
+        {
+            "course_code": "PHY 1104",
+            "course_title": "Properties of Matter Practical",
+            "credit": 2.00
+
+        },
+        {
+            "course_code": "PHY 1105",
+            "course_title": "Vector Analysis",
+            "credit": 2.00
+        },
+        {
+            "course_code": "MATH1101",
+            "course_title": "Differential and Integral Calculus",
+            "credit": 3.00
+        },
+        {
+            "course_code": "CHEM1101",
+            "course_title": "Inorganic and Organic Chemistry",
+            "credit": 2.00
+        },
+        {
+            "course_code": "ENG 1101",
+            "course_title": "Communicative English",
+            "credit": 2.00
+        },
+        {
+            "course_code": "PHY 1100",
+            "course_title": "General Viva- voce",
+            "credit": 1.00
+        },
+        {
+            "course_code": "PHY 1201",
+            "course_title": "Vibrations and Waves",
+            "credit": 3.00
+        },
+        {
+            "course_code": "PHY 1202",
+            "course_title": "Vibrations and Waves Practical",
+            "credit": 2.00
+        },
+        {
+            "course_code": "PHY 1203",
+            "course_title": "Electricity and Magnetism",
+            "credit": 3.00
+        },
+        {
+            "course_code": "PHY 1204",
+            "course_title": "Electricity and Magnetism Practical",
+            "credit": 2.00
+        },
+        {
+            "course_code": "MATH1201",
+            "course_title": "Algebra and Geometry",
+            "credit": 2.00
+
+        },
+        {
+            "course_code": "MATH1203",
+            "course_title": "Linear Algebra",
+            "credit": 3.00
+
+        },
+        {
+            "course_code": "ENG 1202",
+            "course_title": "Communicative English Practical",
+            "credit": 1.50
+
+        },
+        {
+
+            "course_code": "CHEM1201",
+            "course_title": "Physical Chemistry",
+            "credit": 2.00
+
+        },
+        {
+            "course_code": "CHEM1202",
+            "course_title": "Chemistry Practical",
+            "credit": 2.00
+
+        },
+        {
+            "course_code": "HUM 1201",
+            "course_title": "Bangladesh Studies",
+            "credit": 2.00
+
+        },
+        {
+            "course_code": "PHY 1200",
+            "course_title": "General Viva-voce",
+            "credit": 1.00
+        },
+        {
+            "course_code": "PHY 2101",
+            "course_title": "Optics-I",
+            "credit": 2.00
+        },
+
+        {
+            "course_code": "PHY 2102",
+            "course_title": "Optics-I Practical",
+            "credit": 1.50
+        },
+        {
+            "course_code": "PHY 2103",
+            "course_title": "Heat and Thermodynamics",
+            "credit": 3.00
+        },
+        {
+            "course_code": "PHY 2104",
+            "course_title": "Heat and Thermodynamics Practical",
+            "credit": 2.00
+        },
+        {
+            "course_code": "PHY 2105",
+            "course_title": "Mathematical Physics",
+            "credit": 3.00
+        },
+        {
+            "course_code": "PHY 2107",
+            "course_title": "Introduction to Computers and Programming ",
+            "credit": 2.00
+        },
+        {
+            "course_code": "PHY 2108",
+            "course_title": "Introduction to Computers and Programming Practical ",
+            "credit": 1.00
+        },
+        {
+            "course_code": "MATH2101",
+            "course_title": "Differential Equations",
+            "credit": 2.00
+        },
+        {
+            "course_code": "STAT2101",
+            "course_title": "Principles of Statistics",
+            "credit": 3.00
+        },
+        {
+            "course_code": "PHY 2100",
+            "course_title": "General Viva-voce",
+            "credit": 1.00
+        },
+        {
+
+            "course_code": "PHY-2202",
+            "course_title": "Optics-II Practical",
+            "credit": 1.50
+        },
+        {
+            "course_code": "PHY 2203",
+            "course_title": "Classical Mechanics-I",
+            "credit": 3.00
+        },
+        {
+            "course_code": "PHY 2205",
+            "course_title": "Atomic and Molecular Physics",
+            "credit": 3.00
+        },
+        {
+            "course_code": "PHY 2206",
+            "course_title": "Atomic and Molecular Physics Practical",
+            "credit": 2.00
+        },
+        {
+            "course_code": "PHY 2207",
+            "course_title": "Semiconductor Physics",
+            "credit": 3.00
+        },
+        {
+            "course_code": "PHY 2208",
+            "course_title": "Semiconductor Physics Practical",
+            "credit": 2.00
+        },
+        {
+            "course_code": "PHY 2209",
+            "course_title": "Numerical Methods",
+            "credit": 3.00
+        },
+        {
+            "course_code": "PHY 2211",
+            "course_title": "Computational Physics",
+            "credit": 2.00
+        },
+        {
+            "course_code": "PHY 2212",
+            "course_title": "Computational Physics Practical",
+            "credit": 1.00
+        },
+        {
+            "course_code": "PHY 2200",
+            "course_title": "General Viva Voce",
+            "credit": 1.00
+        },
+        {
+            "course_code": "PHY 3101",
+            "course_title": "Classical Mechanics- II",
+            "credit": 3.00
+        },
+        {
+            "course_code": "PHY 3103",
+            "course_title": "Quantum Mechanics- I",
+            "credit": 3.00
+        },
+        {
+            "course_code": "PHY 3105",
+            "course_title": "Classical Electrodynamics- I",
+            "credit": 2.00
+        },
+        {
+            "course_code": "PHY 3107",
+            "course_title": "Electronics- I",
+            "credit": 3.00
+        },
+        {
+            "course_code": "PHY 3108",
+            "course_title": "Electronics- I Practical",
+            "credit": 2.00
+        },
+        {
+            "course_code": "PHY 3109",
+            "course_title": "General and Special Relativity",
+            "credit": 2.00
+        },
+        {
+            "course_code": "PHY 3111",
+            "course_title": "Introduction to Astrophysics",
+            "credit": 3.00
+        },
+        {
+            "course_code": "PHY 3100",
+            "course_title": "General Viva Voce",
+            "credit": 1.00
+        },
+        {
+            "course_code": "PHY 3201",
+            "course_title": "Classical Electrodynamics- II",
+            "credit": 2.00
+        },
+        {
+            "course_code": "PHY 3203",
+            "course_title": "Nuclear Physics- I",
+            "credit": 3.00
+        },
+        {
+            "course_code": "PHY 3204",
+            "course_title": "Nuclear Physics- I Practical",
+            "credit": 2.00
+        },
+        {
+            "course_code": "PHY 3205",
+            "course_title": "Solid State Physics- I",
+            "credit": 3.00
+        },
+        {
+            "course_code": "PHY 3203",
+            "course_title": "Solid State Physics- I Practical",
+            "credit": 1.00
+        },
+        {
+            "course_code": "PHY 3207",
+            "course_title": "Electronics- II",
+            "credit": 3.00
+        },
+        {
+            "course_code": "PHY 3208",
+            "course_title": "Electronics- II Practical",
+            "credit": 2.00
+        },
+        {
+            "course_code": "PHY 3209",
+            "course_title": "Statistical Mechanics",
+            "credit": 3.00
+        },
+        {
+            "course_code": "PHY 3200",
+            "course_title": "General Viva Voce",
+            "credit": 1.00
+        },
+        {
+            "course_code": "PHY 4101",
+            "course_title": "Quantum Mechanics-II",
+            "credit": 3.00
+        },
+        {
+            "course_code": "PHY 4103",
+            "course_title": "Solid State Physics- II",
+            "credit": 3.00
+        },
+        {
+            "course_code": "PHY 4104",
+            "course_title": "Solid State Physics- II Practical",
+            "credit": 2.00
+        },
+        {
+            "course_code": "PHY 4105",
+            "course_title": "Nuclear Physics- II",
+            "credit": 3.00
+        },
+        {
+            "course_code": "PHY 4106",
+            "course_title": "Nuclear Physics- II Practical",
+            "credit": 2.00
+        },
+        {
+            "course_code": "PHY 4107",
+            "course_title": "Geophysics and Non-conventional Energy",
+            "credit": 3.00
+        },
+        {
+            "course_code": "PHY 4109",
+            "course_title": "Crystallography and Spectroscopy",
+            "credit": 2.00
+        },
+        {
+            "course_code": "PHY 4110",
+            "course_title": "Crystallography and Spectroscopy Practical",
+            "credit": 1.50
+        },
+        {
+            "course_code": "PHY 4100",
+            "course_title": "General Viva Voce",
+            "credit": 1.00
+        },
+        {
+            "course_code": "PHY 4201",
+            "course_title": "Material Science",
+            "credit": 3.00
+        },
+        {
+            "course_code": "PHY 4203",
+            "course_title": "Reactor Physics",
+            "credit": 3.00
+        },
+        {
+            "course_code": "PHY 4205",
+            "course_title": "Lasers and Fiber Optic Communications",
+            "credit": 3.00
+        },
+        {
+            "course_code": "PHY 4207",
+            "course_title": "Medical and Radiation Physics",
+            "credit": 3.00
+        },
+        {
+            "course_code": "PHY 4208",
+            "course_title": "Medical and Radiation Physics Practical",
+            "credit": 1.00
+        },
+        {
+            "course_code": "PHY 4200",
+            "course_title": "General Viva Voce",
+            "credit": 1.00
+        },
+        {
+            "course_code": "PHY 4000",
+            "course_title": "Project",
+            "credit": 3.00
+        }
+
+    ],
+    "all_semester": [
+        "First Year First Semester",
+        "First Year Second Semester",
+        "Second Year First Semester",
+        "Second Year Second Semester",
+        "Third Year First Semester",
+        "Third Year Second Semester",
+        "Forth Year First Semester",
+        "Forth Year Second Semester"
+    ],
+    "semester_ini": [
+        1100, 1200, 2100, 2200, 3100, 3200, 4100, 4200
+    ]
+}
